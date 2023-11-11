@@ -23,7 +23,8 @@ Step 5: The Email arrived and I enter the code in the code input , and fill the 
 ### Protected Password Error Message
 ![Protected Password Error Message](https://github.com/YavuzSametKan/User-Login-Form/blob/main/images/err3.png)
 
-subnote: This password error occurs in all password setting windows where you need to set a secure password.
+Subnote: This password error occurs in all password setting windows where you need to set a secure password.
+
 Step 6: I didn't showed sing up page because I forgot. Would you like I show the Sing Up page. Yes? Okey, this is sing up page; HiHiHi
 ### Sing Up Page
 ![Protected Password Error Message](https://github.com/YavuzSametKan/User-Login-Form/blob/main/images/sing%20up%20page.png)
